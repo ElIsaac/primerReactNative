@@ -1,0 +1,17 @@
+{
+  "name": "primeraapp",
+  "displayName": "primeraapp",
+  "expo": {
+    "name": "primeraapp",
+    "slug": "primeraapp",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
